@@ -1,0 +1,12 @@
+digraph { 
+node [ shape=none ] 
+TablaReportNodo [ label = < <table border="1"> 
+<tr> 
+ <td bgcolor='SlateBlue'  ROWSPAN='3'> MBR </td>
+ <td bgcolor='LightSkyBlue' ROWSPAN='3'> PRIMARIA <br/> 8.79 % </td>
+ <td bgcolor='LightSkyBlue' ROWSPAN='3'> PRIMARIA <br/> 6.84 % </td>
+ <td bgcolor='LightSkyBlue' ROWSPAN='3'> PRIMARIA <br/> 8.79 % </td>
+ <td bgcolor='#808080'  ROWSPAN='3'> ESPACIO LIBRE <br/> 75.58 % </td> 
+</tr>
+</table> > ]
+}
